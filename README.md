@@ -11,5 +11,5 @@ Hi. This is a modification of a watchface "Fossil" for Huawei Watch GT 2 by ZmeY
 https://4pda.ru/forum/index.php?showtopic=958866&st=460#entry87940262
 
 The watchface is done in **FaceMaker**, you can download the last Freeware version of it here:
-https://yadi.sk/d/5rXWN9ZKmXEWBA
+https://yadi.sk/d/2tk3TuzgkliCsg
 
